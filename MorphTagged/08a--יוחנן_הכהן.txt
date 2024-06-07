@@ -1,0 +1,150 @@
+>> ״אֶשָׁעֵן בְּמַעַשׂ אֶזְרָח
+" 0x38000 [ףףף]	"	״	Punc	fSpaceAfter=No
+אֶשָּׁעֵן 0x40042740000 [שׁען_נפעל]	אשען	אֶשָׁעֵן	Verb MascFem Sing P1 Future Passive	fSpaceAfter=Yes
+בְּ|מַעַשׂ 0x400524041 [מַעַשׂ]	במעש	בְּמַעַשׂ	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+אֶזְרָח 0x400524000 [אֶזְרָח]	אזרח	אֶזְרָח	Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> בְּצִדְקוֹ לְצַדְּקִי תִּזְרַח
+בְּ|צִדְקוֹ 0x8b2000400524041 [צֶדֶק]	בצדקו	בְּצִדְקוֹ	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+לְצַדְּקִי 0x2ea000000042000 [צדק_פיעל]	לצדקי	לְצַדְּקִי	ToInf Suf_Proniminal SufType_Accusative Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=Yes
+תִּזְרַח 0x48640000 [זרח_פעל]	תזרח	תִּזְרַח	Verb Fem Sing P3 Future	fSpaceAfter=Yes
+
+>> גִּשְּׁתּוֹ אֵלֶיךָ מִמִּזְרָח
+גִּשְׁתּוֹ 0x8ba000000044000 [נגשׁ_פעל]	גשתו	גִּשְּׁתּוֹ	BareInf Suf_Proniminal SufType_Nominative Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+אֵלֶיךָ 0x4ba00000002e000 [אֶל]	אליך	אֵלֶיךָ	Prep Suf_Proniminal SufType_Nominative Suf_Masc Suf_Sing Suf_P2	fSpaceAfter=Yes
+מִ|מִּזְרָח 0x400524041 [מִזְרָח]	ממזרח	מִמִּזְרָח	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> דְּרָכֶיךָ לִשְׁמוֹר זָרַח
+דְּרָכֶיךָ 0x4b2000400924000 [דֶּרֶךְ]	דרכיך	דְּרָכֶיךָ	Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P2	fSpaceAfter=Yes
+לִשְׁמוֹר 0x42000 [שׁמר_פעל]	לשמור	לִשְׁמוֹר	ToInf	fSpaceAfter=Yes
+זָרַח 0x536000 [זֶרַח]	זרח	זָרַח	Propername Masc Sing	fSpaceAfter=Yes
+
+## 
+## 
+>> לָמַד זְרִיקַת דָּם וְרֶיקַח וְנֵירוֹת
+לָמַד 0x18540000 [למד_פעל]	למד	לָמַד	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+זְרִיקַת 0x800624000 [זְרִיקָה]	זריקת	זְרִיקַת	Noun Fem Sing Construct	fSpaceAfter=Yes
+דָּם 0x400524000 [דָּם]	דם	דָּם	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|רִיֽקֵּחַ 0x400524009 []	וריקח	וְרֶיקַח	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|נֵיֽרוֹת 0x400a24009 [נֵר]	ונירות	וְנֵירוֹת	PreLets-1 Pre_Conj Noun Fem Pl Abs	fSpaceAfter=Yes
+
+>> בְּרֹאשׁ וָרֶגֶל וְלֹא בַעֲצַלְתַּיִם
+בְּ|רֹאשׁ 0x400524041 [רֹאשׁ]	בראש	בְּרֹאשׁ	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+וְרֶגֶל 0x400624008 []	ורגל	וָרֶגֶל	Pre_Conj Noun Fem Sing Abs	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+בַּ|עֲצַלְתַּיִם 0x400a24041 [עֲצַלְתַּיִם]	בעצלתים	בַעֲצַלְתַּיִם	PreLets-1 Pre_Prep Pre_NotDef Noun Fem Pl Abs	fSpaceAfter=Yes
+
+>> לִיוְויַת כְבוֹדוֹ בֵּין זִקְנֵי שֶׁבֶת
+לִיֽוְוֽיַת 0x800624000 [לְוָיָה]	ליווית	לִיוְויַת	Noun Fem Sing Construct	fSpaceAfter=Yes
+כְּבוֹדוֹ 0x8b2000400524000 [כָּבוֹד]	כבודו	כְבוֹדוֹ	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+בֵּין 0x2e000 [בֵּין]	בין	בֵּין	Prep	fSpaceAfter=Yes
+זִקְנֵי 0x800924000 [זָקֵן]	זקני	זִקְנֵי	Noun Masc Pl Construct	fSpaceAfter=Yes
+שֶׁבֶת 0x400624000 [שֶׁבֶת]	שבת	שֶׁבֶת	Noun Fem Sing Abs	fSpaceAfter=Yes
+
+>> לַהֲגוֹת לְפָנָיו כְּסֵדֶר וְלֹא יִשְׁגֶּה
+לַהֲגוֹת 0x42000 [הגי_פעל]	להגות	לַהֲגוֹת	ToInf	fSpaceAfter=Yes
+לְפָנָיו 0x8ba00000002e000 [לִפְנֵי]	לפניו	לְפָנָיו	Prep Suf_Proniminal SufType_Nominative Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+כְּ|סֵדֶר 0x400524041 [סֵדֶר]	כסדר	כְּסֵדֶר	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+יִשְׁגֶּה 0x48540000 [שׁגי_פעל]	ישגה	יִשְׁגֶּה	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+
+>> לְפֶתַח הַקָּדִים בְּעֶרֶב צוֹם יְלַוּוּהוּ
+לְ|פֶתַח 0x800524041 [פֶּתַח]	לפתח	לְפֶתַח	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+הַ|קָּדִים 0x400524011 [קָדִים]	הקדים	הַקָּדִים	PreLets-1 Pre_DefArt Noun Masc Sing Abs	fSpaceAfter=Yes
+בְּ|עֶרֶב 0x800524041 [עֶרֶב]	בערב	בְּעֶרֶב	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+צוֹם 0x400524000 [צוֹם]	צום	צוֹם	Noun Masc Sing Abs	fSpaceAfter=Yes
+יְלַוּוּהוּ 0x8aa000048940000 [לוי_פיעל]	ילווהו	יְלַוּוּהוּ	Verb Masc Pl P3 Future Suf_Proniminal SufType_Accusative Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+
+>> לְרַגְּלוֹ בְּזִבְחֵי יוֹם וְלֹא יֶחְטָא
+לְרַגְּלוֹ 0x8aa000000042000 [רגל_פיעל]	לרגלו	לְרַגְּלוֹ	ToInf Suf_Proniminal SufType_Accusative Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+בְּ|זִבְחֵי 0x800924041 [זֶבַח]	בזבחי	בְּזִבְחֵי	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Pl Construct	fSpaceAfter=Yes
+יוֹם 0x400524000 [יוֹם]	יום	יוֹם	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+יֶחְטָא 0x48540000 [חטא_פעל]	יחטא	יֶחְטָא	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+
+>> לְעֵת עֶרֶב יַמְעִיטוּ אׇוכְלוֹ וּמַשְׁקֵהוּ
+לְ|עֵת 0x800624041 [עֵת]	לעת	לְעֵת	PreLets-1 Pre_Prep Pre_NotDef Noun Fem Sing Construct	fSpaceAfter=Yes
+עֶרֶב 0x400524000 [עֶרֶב]	ערב	עֶרֶב	Noun Masc Sing Abs	fSpaceAfter=Yes
+יַמְעִיטוּ 0x48940000 [מעט_הפעיל]	ימעיטו	יַמְעִיטוּ	Verb Masc Pl P3 Future	fSpaceAfter=Yes
+אׇוֽכְלוֹ 0x8b2000400524000 [אֹכֶל]	אוכלו	אׇוכְלוֹ	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+וּ|מַשְׁקֵהוּ 0x8b2000400524009 [מַשְׁקֶה]	ומשקהו	וּמַשְׁקֵהוּ	PreLets-1 Pre_Conj Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+
+>> לְבַל יֵירָדֵם וְיִיקֶּר וְלֹא יַעֲבוֹד
+לְ|בַל 0x1e041 [בַּל]	לבל	לְבַל	PreLets-1 Pre_Prep Pre_NotDef Modal	fSpaceAfter=Yes
+יֵיֽרָדֵם 0x40048540000 [רדם_נפעל]	יירדם	יֵירָדֵם	Verb Masc Sing P3 Future Passive	fSpaceAfter=Yes
+וְ|יִיֽקֶר 0x18540009 [קרה_פעל]	וייקר	וְיִיקֶּר	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+יַעֲבֹוֽד 0x48540000 [עבד_פעל]	יעבוד	יַעֲבוֹד	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+
+## 
+>> עָדַת מְכַהֵן בַּקֹּדֶשׁ
+עֲדַת 0x800624000 []	עדת	עָדַת	Noun Fem Sing Construct	fSpaceAfter=Yes
+מְכַהֵן 0x2e540000 [כהן_פיעל]	מכהן	מְכַהֵן	Verb Masc Sing PAny Present	fSpaceAfter=Yes
+בַּ|קֹּדֶשׁ 0x400524841 [קֹדֶשׁ]	בקדש	בַּקֹּדֶשׁ	PreLets-1 Pre_Prep Pre_Def Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> מְטַהֵר בַקֹּדֶשׁ
+מְטַהֵר 0x40e528000 [מְטַהֵר]	מטהר	מְטַהֵר	Ptcp Masc Sing PAny Abs	fSpaceAfter=Yes
+בַּ|קֹּדֶשׁ 0x400524841 [קֹדֶשׁ]	בקדש	בַקֹּדֶשׁ	PreLets-1 Pre_Prep Pre_Def Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> וְאֵין מַלְבּוּשׁ קֹּדֶשׁ
+וְ|אֵין 0x20009 [אֵין]	ואין	וְאֵין	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+מַלְבּוּשׁ 0x800524000 [מַלְבּוּשׁ]	מלבוש	מַלְבּוּשׁ	Noun Masc Sing Construct	fSpaceAfter=Yes
+קֹדֶשׁ 0x400524000 [קֹדֶשׁ]	קדש	קֹּדֶשׁ	Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> לְצַוֹּת כְּמֵאָז כֹּהֵן
+לְצַוֹּת 0x42000 [צוה_פיעל]	לצות	לְצַוֹּת	ToInf	fSpaceAfter=Yes
+כְּ|מֵאָז 0x6041 [אָז]	כמאז	כְּמֵאָז	PreLets-1 Pre_Prep Pre_NotDef Adv	fSpaceAfter=Yes
+כֹּהֵן 0x400524000 [כּוֹהֵן]	כהן	כֹּהֵן	Noun Masc Sing Abs	fSpaceAfter=Yes
+
+## 
+>> זֶה הַשַּׁעַר עָשָׂה אֵל לְהַלְלוֹ בִּפְרִי עֵץ
+זֶה 0x8534000 [זֶה]	זה	זֶה	Pronoun Masc Sing P3	fSpaceAfter=Yes
+הַ|שַּׁעַר 0x400524011 [שַׁעַר]	השער	הַשַּׁעַר	PreLets-1 Pre_DefArt Noun Masc Sing Abs	fSpaceAfter=Yes
+עָשָׂה 0x18540000 [עשׂי_פעל]	עשה	עָשָׂה	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+אֵל 0x36000 [אֵל]	אל	אֵל	Propername	fSpaceAfter=Yes
+לְ|הַלְּלוֹ 0x8b2000400524041 [הַלֵּל]	להללו	לְהַלְלוֹ	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+בִּ|פְרִי 0x800524041 [פְּרִי]	בפרי	בִּפְרִי	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+עֵץ 0x800524000 [עֵץ]	עץ	עֵץ	Noun Masc Sing Construct	fSpaceAfter=Yes
+
+>> יְסוֹד שַׁעַר דָּן הוּא חָפֵץ
+יְסוֹד 0x400524000 [יְסוֹד]	יסוד	יְסוֹד	Noun Masc Sing Abs	fSpaceAfter=Yes
+שַׁעַר 0x800524000 [שַׁעַר]	שער	שַׁעַר	Noun Masc Sing Construct	fSpaceAfter=Yes
+דָּן 0x736000 [דָּן]	דן	דָּן	Propername MascFem Sing	fSpaceAfter=Yes
+הוּא 0x28510000 [הוּא]	הוא	הוּא	Copula Masc Sing P3 Present	fSpaceAfter=Yes
+חָפֵץ 0x400504000 [חָפֵץ]	חפץ	חָפֵץ	Adj Masc Sing Abs	fSpaceAfter=Yes
+
+>> בְּקִ<ילוּס> לוּלָ<ב> יָחִישׁ לָנוּ מְקַבֵּץ
+בְּ|קִ 0x36041 [קִי]	בק	בְּקִ	PreLets-1 Pre_Prep Pre_NotDef Propername	fSpaceAfter=No
+< 0x3c000 [ףףף]	<	<	Unk	fSpaceAfter=No
+ילוּס 0x800524000 []	ילוס	ילוּס	Noun Masc Sing Construct	fSpaceAfter=No
+> 0x3c000 [ףףף]	>	>	Unk	fSpaceAfter=Yes
+לוּל 0x400524000 []	לול	לוּלָ	Noun Masc Sing Abs	fSpaceAfter=No
+< 0x3c000 [ףףף]	<	<	Unk	fSpaceAfter=No
+ב 0x26000 [ב]	ב	ב	Num	fSpaceAfter=No
+> 0x3c000 [ףףף]	>	>	Unk	fSpaceAfter=Yes
+יָחִישׁ 0x48540000 [חושׁ_הפעיל]	יחיש	יָחִישׁ	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+לָנוּ 0x37a00000002e000 [לְ]	לנו	לָנוּ	Prep Suf_Proniminal SufType_Nominative Suf_MascFem Suf_Pl Suf_P1	fSpaceAfter=Yes
+מְקַבֵּץ 0x40e528000 [מְקַבֵּץ]	מקבץ	מְקַבֵּץ	Ptcp Masc Sing PAny Abs	fSpaceAfter=Yes
+
+>> וּנְפֻוצוֹת יְהוּ<דָה> יְקַבֵּץ
+וּ|נְפוּצוֹת 0x400a24009 [נְפוּצוֹת]	ונפוצות	וּנְפֻוצוֹת	PreLets-1 Pre_Conj Noun Fem Pl Abs	fSpaceAfter=Yes
+יְהוּ 0x400524000 [יְהוּ]	יהו	יְהוּ	Noun Masc Sing Abs	fSpaceAfter=No
+< 0x3c000 [ףףף]	<	<	Unk	fSpaceAfter=No
+דֶ|ה 0x16001 []	דה	דָה	PreLets-1 Foreign	fSpaceAfter=No
+> 0x3c000 [ףףף]	>	>	Unk	fSpaceAfter=Yes
+יְקַבֵּץ 0x48540000 [קבץ_פיעל]	יקבץ	יְקַבֵּץ	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+
+## 
+>> סְ<תָיו> צְמָחָיו הָקִימָה
+ס 0x1c000 []	ס	סְ	Junk	fSpaceAfter=No
+< 0x3c000 [ףףף]	<	<	Unk	fSpaceAfter=No
+תָּיו 0x400624000 [תָּיו]	תיו	תָיו	Noun Fem Sing Abs	fSpaceAfter=No
+> 0x3c000 [ףףף]	>	>	Unk	fSpaceAfter=Yes
+צְמָחָיו 0x8b2000400924000 [צֶמַח]	צמחיו	צְמָחָיו	Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+הֵקִימַה 0x18640000 []	הקימה	הָקִימָה	Verb Fem Sing P3 Past	fSpaceAfter=Yes
+
+>> גָּדִישׁ וְקָמָה
+גָּדִישׁ 0x400524000 [גָּדִישׁ]	גדיש	גָּדִישׁ	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|קָמָה 0x18640009 [קום_פעל]	וקמה	וְקָמָה	PreLets-1 Pre_Conj Verb Fem Sing P3 Past	fSpaceAfter=Yes
+
+## 

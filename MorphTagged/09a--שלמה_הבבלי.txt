@@ -1,0 +1,355 @@
+>> ״אַדֶּרֶת תִּלְבּוֹשֶׁת הוֹד וְהָדָר יַקִּיר
+" 0x38000 [ףףף]	"	״	Punc	fSpaceAfter=No
+אַדֶּרֶת 0x400624000 [אַדֶּרֶת]	אדרת	אַדֶּרֶת	Noun Fem Sing Abs	fSpaceAfter=Yes
+תִּלְבֹּוֽשֶׁת 0x800624000 [תִּלְבֹּשֶׁת]	תלבושת	תִּלְבּוֹשֶׁת	Noun Fem Sing Construct	fSpaceAfter=Yes
+הוֹד 0x400524000 [הוֹד]	הוד	הוֹד	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|הָדָר 0x400524009 [הָדָר]	והדר	וְהָדָר	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+יַקִּיר 0x400504000 [יַקִּיר]	יקיר	יַקִּיר	Adj Masc Sing Abs	fSpaceAfter=Yes
+
+>> אֶת מִי מִלִּין לְסַפֵּר שִׁבְחָהּ?
+אֶת 0x30000 [אֶת]	את	אֶת	AtPrep	fSpaceAfter=Yes
+מִי 0x1a000 [מִי]	מי	מִי	Interrogative	fSpaceAfter=Yes
+מִ|לִּין 0x36041 [לִין]	מלין	מִלִּין	PreLets-1 Pre_Prep Pre_NotDef Propername	fSpaceAfter=Yes
+לְסַפֵּר 0x42000 [ספר_פיעל]	לספר	לְסַפֵּר	ToInf	fSpaceAfter=Yes
+שִׁבְחָהּ 0x8d2000400524000 [שֶׁבַח]	שבחה	שִׁבְחָהּ	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Fem Suf_Sing Suf_P3	fSpaceAfter=No
+? 0x38000 [ףףף]	?	?	Punc	fSpaceAfter=Yes
+
+>> אֶבֶן הָרֹאשָׁה יְקָרָה וְאֵין עֲרוֹךְ –
+אֶבֶן 0x800624000 [אֶבֶן]	אבן	אֶבֶן	Noun Fem Sing Construct	fSpaceAfter=Yes
+הָ|רֹאשָׁה 0x400624011 [רֹאשָׁה]	הראשה	הָרֹאשָׁה	PreLets-1 Pre_DefArt Noun Fem Sing Abs	fSpaceAfter=Yes
+יְקָרָה 0x400604000 [יָקָר]	יקרה	יְקָרָה	Adj Fem Sing Abs	fSpaceAfter=Yes
+וְ|אֵין 0x2c009 [אֵין]	ואין	וְאֵין	PreLets-1 Pre_Conj Prefix	fSpaceAfter=Yes
+עֲרֹוֽךְ 0x84540000 [ערך_פעל]	ערוך	עֲרוֹךְ	Verb Masc Sing P2 Imperative	fSpaceAfter=Yes
+– 0x38000 [ףףף]	–	–	Punc	fSpaceAfter=Yes
+
+>> אֵין לְהַכְרִיז תְּשׁוּאוֹת שׁוּם שָׁוְויָהּ!
+אֵין 0x1e000 [אֵין]	אין	אֵין	Modal	fSpaceAfter=Yes
+לְהַכְרִיז 0x42000 [כרז_הפעיל]	להכריז	לְהַכְרִיז	ToInf	fSpaceAfter=Yes
+תְּשׁוּאוֹת 0x800a24000 [תְּשׁוּאָה]	תשואות	תְּשׁוּאוֹת	Noun Fem Pl Construct	fSpaceAfter=Yes
+שׁוּם 0xc00012000 [שׁוּם]	שום	שׁוּם	DetQuant AbsConstruct	fSpaceAfter=Yes
+שׇׁוְוֽיָהּ 0x8d2000400524000 [שֹׁוִי]	שוויה	שָׁוְויָהּ	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Fem Suf_Sing Suf_P3	fSpaceAfter=No
+! 0x38000 [ףףף]	!	!	Punc	fSpaceAfter=Yes
+
+>> אֵי מְקוֹם סְגוֹר סָגוּר וְסַפִּיר
+אֵי 0x1a000 [אֵי]	אי	אֵי	Interrogative	fSpaceAfter=Yes
+מְקוֹם 0x800524000 [מָקוֹם]	מקום	מְקוֹם	Noun Masc Sing Construct	fSpaceAfter=Yes
+סְגוֹר 0x400524000 [סְגוֹר]	סגור	סְגוֹר	Noun Masc Sing Abs	fSpaceAfter=Yes
+סָגוּר 0x400504000 [סָגוּר]	סגור	סָגוּר	Adj Masc Sing Abs	fSpaceAfter=Yes
+וְ|סַפִּיר 0x400524009 [סַפִּיר]	וספיר	וְסַפִּיר	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> אֲשֶׁר לְפִי מְלֹאת כְּלִיל הָעֲטָרָה?
+אֲשֶׁר 0xc000 [אֲשֶׁר]	אשר	אֲשֶׁר	Conj	fSpaceAfter=Yes
+לְפִי 0x2e000 [לְפִי]	לפי	לְפִי	Prep	fSpaceAfter=Yes
+מְלֹאת 0x44000 [מלא_פעל]	מלאת	מְלֹאת	BareInf	fSpaceAfter=Yes
+כְּלִיל 0x400524000 [כְּלִיל]	כליל	כְּלִיל	Noun Masc Sing Abs	fSpaceAfter=Yes
+הָ|עֲטָרָה 0x400624011 [עֲטָרָה]	העטרה	הָעֲטָרָה	PreLets-1 Pre_DefArt Noun Fem Sing Abs	fSpaceAfter=No
+? 0x38000 [ףףף]	?	?	Punc	fSpaceAfter=Yes
+
+>> אֻומָּן הֲיִמָּצֵא, וְגַם חֲכַם חֲרוֹשֶׁת?
+אֻוֽמָּן 0x400524000 [אֻמָּן]	אומן	אֻומָּן	Noun Masc Sing Abs	fSpaceAfter=Yes
+הֲ|יִמָּצֵא 0x40048540021 [מצא_נפעל]	הימצא	הֲיִמָּצֵא	PreLets-1 Pre_Interrogative Verb Masc Sing P3 Future Passive	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וְ|גַם 0xc009 [גַּם]	וגם	וְגַם	PreLets-1 Pre_Conj Conj	fSpaceAfter=Yes
+חֲכַם 0x800504000 [חָכָם]	חכם	חֲכַם	Adj Masc Sing Construct	fSpaceAfter=Yes
+חֲרֹוֽשֶׁת 0x400624000 [חֲרֹשֶׁת]	חרושת	חֲרוֹשֶׁת	Noun Fem Sing Abs	fSpaceAfter=No
+? 0x38000 [ףףף]	?	?	Punc	fSpaceAfter=Yes
+
+>> 'אִיתִּיאֵל וְאוּכַל' מִי יְמַלֵּל?!
+' 0x38000 [ףףף]	'	'	Punc	fSpaceAfter=No
+אִיתִיאֵל 0x536000 [אִיתִיאֵל]	איתיאל	אִיתִּיאֵל	Propername Masc Sing	fSpaceAfter=Yes
+וְ|אוּכַל 0x42740009 [יכל_פעל]	ואוכל	וְאוּכַל	PreLets-1 Pre_Conj Verb MascFem Sing P1 Future	fSpaceAfter=No
+' 0x38000 [ףףף]	'	'	Punc	fSpaceAfter=Yes
+מִי 0x1a000 [מִי]	מי	מִי	Interrogative	fSpaceAfter=Yes
+יְמַלֵּל 0x48540000 [מלל_פיעל]	ימלל	יְמַלֵּל	Verb Masc Sing P3 Future	fSpaceAfter=No
+?! 0x38000 [ףףף]	?!	?!	Punc	fSpaceAfter=Yes
+
+## 
+>> שְׁלֵימָה מִטָּה, כֻּלָּהּ בְּלִי מוּם,
+שְׁלֵיֽמָה 0x400604000 [שָׁלֵם]	שלימה	שְׁלֵימָה	Adj Fem Sing Abs	fSpaceAfter=Yes
+מִטָּה 0x400624000 [מִטָּה]	מטה	מִטָּה	Noun Fem Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+כֻּלָּהּ 0x8d2000400524000 [כֹּל]	כלה	כֻּלָּהּ	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Fem Suf_Sing Suf_P3	fSpaceAfter=Yes
+בְּלִי 0xc000 [בְּלִי]	בלי	בְּלִי	Conj	fSpaceAfter=Yes
+מוּם 0x400524000 [מוּם]	מום	מוּם	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> שִׁבְטֵי יָהּ, עֵדוּת לֹא תִשָּׁכֵחַ.
+שִׁבְטֵי 0x800924000 [שֵׁבֶט]	שבטי	שִׁבְטֵי	Noun Masc Pl Construct	fSpaceAfter=Yes
+יָהּ 0x536000 [יָהּ]	יה	יָהּ	Propername Masc Sing	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+עֵדוּת 0x400624000 [עֵדוּת]	עדות	עֵדוּת	Noun Fem Sing Abs	fSpaceAfter=Yes
+לֹא 0x20000 [לֹא]	לא	לֹא	Negation	fSpaceAfter=Yes
+תִּשָּׁכֵחַ 0x40048640000 [שׁכח_נפעל]	תשכח	תִשָּׁכֵחַ	Verb Fem Sing P3 Future Passive	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+>> שְׁלִישִׁי עָל, לְאָחוֹר עֲשִׂירִי, קֹדֶשׁ,
+שְׁלִישִׁי 0x400526000 [שְׁלוֹשָׁה]	שלישי	שְׁלִישִׁי	Num Masc Sing Abs	fSpaceAfter=Yes
+עָל 0x400524000 [עַל]	על	עָל	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+לְאָחוֹר 0x6000 [אָחוֹר]	לאחור	לְאָחוֹר	Adv	fSpaceAfter=Yes
+עֲשִׂירִי 0x400504000 [עֲשִׂירִי]	עשירי	עֲשִׂירִי	Adj Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+קֹדֶשׁ 0x400524000 [קֹדֶשׁ]	קדש	קֹדֶשׁ	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> שׁוֹעֵר, שׁוֹמֵר, מְשׁוֹרֵר, מְשָׁרֵת, מְבָרֵךְ.
+שׁוֹעֵר 0x400524000 [שׁוֹעֵר]	שוער	שׁוֹעֵר	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+שׁוֹמֵר 0x400524000 [שׁוֹמֵר]	שומר	שׁוֹמֵר	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+מְשׁוֹרֵר 0x400524000 [מְשׁוֹרֵר]	משורר	מְשׁוֹרֵר	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+מְשָׁרֵת 0x400524000 [מְשָׁרֵת]	משרת	מְשָׁרֵת	Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+מְבָרֵךְ 0x40e528000 [מְבָרֵךְ]	מברך	מְבָרֵךְ	Ptcp Masc Sing PAny Abs	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+>> וּמִחוּץ לַפָּרוֹכֶת כְּנֶגֶד אֲרוֹן קָם,
+וּמִ|חוּץ 0x40052404a [חוּץ]	ומחוץ	וּמִחוּץ	PreLets-2 Pre_Conj Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+לַ|פָּרֹוֽכֶת 0x400624841 [פָּרֹכֶת]	לפרוכת	לַפָּרוֹכֶת	PreLets-1 Pre_Prep Pre_Def Noun Fem Sing Abs	fSpaceAfter=Yes
+כְּנֶגֶד 0x2e000 [נֶגֶד]	כנגד	כְּנֶגֶד	Prep	fSpaceAfter=Yes
+אֲרוֹן 0x800524000 [אָרוֹן]	ארון	אֲרוֹן	Noun Masc Sing Construct	fSpaceAfter=Yes
+קָם 0x2e540000 [קום_פעל]	קם	קָם	Verb Masc Sing PAny Present	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> וּבְמִדָּה פְנִימִית - מִדָּה חִצוֹנָה לַפָּרוֹכֶת.
+וּבְ|מִדָּה 0x40062404a [מִדָּה]	ובמדה	וּבְמִדָּה	PreLets-2 Pre_Conj Pre_Prep Pre_NotDef Noun Fem Sing Abs	fSpaceAfter=Yes
+פְּנִימִית 0x400604000 [פְּנִימִי]	פנימית	פְנִימִית	Adj Fem Sing Abs	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+מִדָּה 0x400624000 [מִדָּה]	מדה	מִדָּה	Noun Fem Sing Abs	fSpaceAfter=Yes
+חִצוֹנָה 0x400604000 [חִיצוֹן]	חצונה	חִצוֹנָה	Adj Fem Sing Abs	fSpaceAfter=Yes
+לַ|פָּרֹוֽכֶת 0x400624841 [פָּרֹכֶת]	לפרוכת	לַפָּרוֹכֶת	PreLets-1 Pre_Prep Pre_Def Noun Fem Sing Abs	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+>> וְהִנִּיחַ, וְנָטַל, וְסִיֵּים שְׁנֵיהֶם שָׁוִים,
+וְ|הִנִּיחַ 0x18540009 [נוח_הפעיל]	והניח	וְהִנִּיחַ	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וְ|נָטַל 0x18540009 [נטל_פעל]	ונטל	וְנָטַל	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וְ|סִיֵּיֽם 0x18540009 [סים_פיעל]	וסיים	וְסִיֵּים	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+שְׁנֵיהֶם 0x93a000401126000 [שְׁנַיִם]	שניהם	שְׁנֵיהֶם	Num Masc Dual Abs Suf_Proniminal SufType_Nominative Suf_Masc Suf_Pl Suf_P3	fSpaceAfter=Yes
+שָׁוִים 0x2e940000 [שׁוי_פעל]	שוים	שָׁוִים	Verb Masc Pl PAny Present	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> וְדָם בְּדָם עֵירָה, עֵירַב כְּאַחַת,
+וְ|דָם 0x400524009 [דָּם]	ודם	וְדָם	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+בְּ|דָם 0x800524041 [דָּם]	בדם	בְּדָם	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+עֵיֽרָהּ 0x8d2000400504000 [עֵר]	עירה	עֵירָה	Adj Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Fem Suf_Sing Suf_P3	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+עֵיֽרַב 0x18540000 [ערב_פיעל]	עירב	עֵירַב	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+כְּ|אַחַת 0xc00626041 [אֶחָד]	כאחת	כְּאַחַת	PreLets-1 Pre_Prep Pre_NotDef Num Fem Sing AbsConstruct	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> וְקִדֵּשׁ וְטִהַר בְּרָבוּעַ וְרוּם שָׁלֹשׁ,
+וְ|קִדֵּשׁ 0x18540009 [קדשׁ_פיעל]	וקדש	וְקִדֵּשׁ	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+וְ|טִהַר 0x18540009 [טהר_פיעל]	וטהר	וְטִהַר	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+בְּ|רָבוּעַ 0x400504041 [רָבוּעַ]	ברבוע	בְּרָבוּעַ	PreLets-1 Pre_Prep Pre_NotDef Adj Masc Sing Abs	fSpaceAfter=Yes
+וְ|רוּם 0x400524009 [רוּם]	ורום	וְרוּם	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+שָׁלֹשׁ 0x400a26000 [שְׁלוֹשָׁה]	שלש	שָׁלֹשׁ	Num Fem Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> וְהַנִּשְׁאָר בַּדָּם - לִיסוֹד מַעֲרָבִי הַחִצוּן.
+וְהַ|נִּשְׁאָר 0x4040e52801a [נִשְׁאָר]	והנשאר	וְהַנִּשְׁאָר	PreLets-2 Pre_Conj Pre_DefArt Ptcp Masc Sing PAny Abs Passive	fSpaceAfter=Yes
+בַּ|דָּם 0x400524841 [דָּם]	בדם	בַּדָּם	PreLets-1 Pre_Prep Pre_Def Noun Masc Sing Abs	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+לִ|יסוֹד 0x400524041 [יְסוֹד]	ליסוד	לִיסוֹד	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+מַעֲרָבִי 0x400504000 [מַעֲרָבִי]	מערבי	מַעֲרָבִי	Adj Masc Sing Abs	fSpaceAfter=Yes
+הַ|חִצּוּן 0x94a000018b40021 [חצי_פיעל]	החצון	הַחִצוּן	PreLets-1 Pre_Interrogative Verb MascFem Pl P3 Past Suf_Proniminal SufType_Accusative Suf_Fem Suf_Pl Suf_P3	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+>> וְכִלָּה מִכַּפֵּר, וּבָא בְּמַעֲמַד חָי,
+וְ|כִלָּה 0x400624009 [כִּלָּה]	וכלה	וְכִלָּה	PreLets-1 Pre_Conj Noun Fem Sing Abs	fSpaceAfter=Yes
+מִ|כַּפֵּר 0x800044041 [כפר_פיעל]	מכפר	מִכַּפֵּר	PreLets-1 Pre_Prep Pre_NotDef BareInf	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וּ|בָא 0x18540009 [בוא_פעל]	ובא	וּבָא	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+בְּ|מַעֲמַד 0x800524041 [מַעֲמָד]	במעמד	בְּמַעֲמַד	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+חָי 0x400504000 [חַי]	חי	חָי	Adj Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> וִידּוּי דְּבֵקִים לְאֵל חַי הִרְצָה.
+וִיֽדּוּי 0x800524000 [וִדּוּי]	וידוי	וִידּוּי	Noun Masc Sing Construct	fSpaceAfter=Yes
+דְּבֵקִים 0x400904000 [דָּבֵק]	דבקים	דְּבֵקִים	Adj Masc Pl Abs	fSpaceAfter=Yes
+לְ|אֵל 0x400524041 [אֵל]	לאל	לְאֵל	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+חַי 0x400504000 [חַי]	חי	חַי	Adj Masc Sing Abs	fSpaceAfter=Yes
+הִרְצָה 0x18540000 [רצי_הפעיל]	הרצה	הִרְצָה	Verb Masc Sing P3 Past	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## ...
+## 
+>> פָּרִים אַבִּירִים - לְפַסֵּג גִּזְרֵי גְזָרִים,
+פָּרִים 0x400924000 [פַּר]	פרים	פָּרִים	Noun Masc Pl Abs	fSpaceAfter=Yes
+אַבִּירִים 0x400904000 [אַבִּיר]	אבירים	אַבִּירִים	Adj Masc Pl Abs	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+לְפַסֵּג 0x42000 [פסג_פיעל]	לפסג	לְפַסֵּג	ToInf	fSpaceAfter=Yes
+גִּזְרֵי 0x800924000 [גְּזָר]	גזרי	גִּזְרֵי	Noun Masc Pl Construct	fSpaceAfter=Yes
+גְּזָרִים 0x400924000 [גְּזָר]	גזרים	גְזָרִים	Noun Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> כִּיקַר כָּרִים, כָּלִים, גְּמוּרִים,
+כִּ|יקַר 0x800524041 [יְקָר]	כיקר	כִּיקַר	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+כָּרִים 0x400924000 [כַּר]	כרים	כָּרִים	Noun Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+כָּלִים 0x400904000 [כָּלֶה]	כלים	כָּלִים	Adj Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+גְּמוּרִים 0x400904000 [גָּמוּר]	גמורים	גְּמוּרִים	Adj Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> תּוֹר וְגוֹזָל שְׁלֵימִים וְלֹא חֲסֵירִים,
+תּוֹר 0x400524000 [תּוֹר]	תור	תּוֹר	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|גוֹזָל 0x400524009 [גּוֹזָל]	וגוזל	וְגוֹזָל	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=Yes
+שְׁלֵיֽמִים 0x400904000 [שָׁלֵם]	שלימים	שְׁלֵימִים	Adj Masc Pl Abs	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+חֲסֵיֽרִים 0x400904000 [חָסֵר]	חסירים	חֲסֵירִים	Adj Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> שְׁמוּרִים בְּלֵיל שִׁימּוּרִים הַלֵּל גּוֹמְרִים,
+שְׁמוּרִים 0x4040e928000 [שָׁמוּר]	שמורים	שְׁמוּרִים	Ptcp Masc Pl PAny Abs Passive	fSpaceAfter=Yes
+בְּ|לֵיל 0x800524041 [לַיִל]	בליל	בְּלֵיל	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Construct	fSpaceAfter=Yes
+שִׁיֽמּוּרִים 0x400924000 [שִׁמּוּר]	שימורים	שִׁימּוּרִים	Noun Masc Pl Abs	fSpaceAfter=Yes
+הַלֵּל 0x400524000 [הַלֵּל]	הלל	הַלֵּל	Noun Masc Sing Abs	fSpaceAfter=Yes
+גּוֹמְרִים 0x2e940000 [גמר_פעל]	גומרים	גּוֹמְרִים	Verb Masc Pl PAny Present	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> כְּעוֹבְרִים שָׁרִים, זַמָּרִים, אָשִׁירָה לַייָ אוֹמְרִים!״
+כְּ|עוֹבְרִים 0x40e928041 [עוֹבֵר]	כעוברים	כְּעוֹבְרִים	PreLets-1 Pre_Prep Pre_NotDef Ptcp Masc Pl PAny Abs	fSpaceAfter=Yes
+שָׁרִים 0x40e928000 [שָׁר]	שרים	שָׁרִים	Ptcp Masc Pl PAny Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+זַמָּרִים 0x400924000 [זַמָּר]	זמרים	זַמָּרִים	Noun Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+אָשִׁירָה 0x42740000 [שׁיר_פעל]	אשירה	אָשִׁירָה	Verb MascFem Sing P1 Future	fSpaceAfter=Yes
+לַיִּי 0x36000 [לַיִּי]	ליי	לַייָ	Propername	fSpaceAfter=Yes
+אוֹמְרִים 0x2e940000 [אמר_פעל]	אומרים	אוֹמְרִים	Verb Masc Pl PAny Present	fSpaceAfter=No
+!" 0x38000 [ףףף]	!"	!״	Punc	fSpaceAfter=Yes
+
+## 
+>> הִכְאִיב - וְיֶחְבָּשׁ, יִמְחַץ - וְיָדָיו תִּרְפֶּינָה.
+הִכְאִיב 0x18540000 [כאב_הפעיל]	הכאיב	הִכְאִיב	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+וְ|יֶחְבָּשׁ 0x48540009 [חבשׁ_פעל]	ויחבש	וְיֶחְבָּשׁ	PreLets-1 Pre_Conj Verb Masc Sing P3 Future	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+יִמְחַץ 0x48540000 [מחץ_פעל]	ימחץ	יִמְחַץ	Verb Masc Sing P3 Future	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+וְ|יָדָיו 0x8b2000400a24009 [יָד]	וידיו	וְיָדָיו	PreLets-1 Pre_Conj Noun Fem Pl Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+תִּרְפֶּינָה 0x48a40000 [רפי_פעל]	תרפינה	תִּרְפֶּינָה	Verb Fem Pl P3 Future	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+>> רוֹמֵם צִדְקָם, וּזְכוֹר בְּרִית אַחֲרוֹנִית –
+רוֹמֵם 0x18540000 [רום_פיעל]	רומם	רוֹמֵם	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+צִדְקָם 0x932000400524000 [צֶדֶק]	צדקם	צִדְקָם	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Pl Suf_P3	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וּ|זְכוֹר 0x84540009 [זכר_פעל]	וזכור	וּזְכוֹר	PreLets-1 Pre_Conj Verb Masc Sing P2 Imperative	fSpaceAfter=Yes
+בְּרִית 0x400624000 [בְּרִית]	ברית	בְּרִית	Noun Fem Sing Abs	fSpaceAfter=Yes
+אַ|חֲרוֹנִית 0x400624001 []	אחרונית	אַחֲרוֹנִית	PreLets-1 Noun Fem Sing Abs	fSpaceAfter=Yes
+– 0x38000 [ףףף]	–	–	Punc	fSpaceAfter=Yes
+
+>> רִאשׁוֹנִית גִּידַּלְתָּ, וְגִידּוּלֶיהָ מִנְיָין אֲחוֹרַנִּית.
+רִאשׁוֹנִית 0x400604000 [רִאשׁוֹנִי]	ראשונית	רִאשׁוֹנִית	Adj Fem Sing Abs	fSpaceAfter=Yes
+גִּיֽדַּלְתָּ 0x14540000 [גדל_פיעל]	גידלת	גִּידַּלְתָּ	Verb Masc Sing P2 Past	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+וְ|גִיֽדּוּלֶיהָ 0x8d2000400924009 [גִּדּוּל]	וגידוליה	וְגִידּוּלֶיהָ	PreLets-1 Pre_Conj Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_Fem Suf_Sing Suf_P3	fSpaceAfter=Yes
+מִנְיָיֽן 0x400524000 [מִנְיָן]	מניין	מִנְיָין	Noun Masc Sing Abs	fSpaceAfter=Yes
+אֲחוֹרַנִּית 0x6000 [אֲחוֹרַנִּית]	אחורנית	אֲחוֹרַנִּית	Adv	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+>> וּמַדּוּעַ נִסְחֲפוּ אַבִּירַי וּמְתֵי שִׁיר איילי,
+וּ|מַדּוּעַ 0x1a009 [מַדּוּעַ]	ומדוע	וּמַדּוּעַ	PreLets-1 Pre_Conj Interrogative	fSpaceAfter=Yes
+נִסְחֲפוּ 0x40018b40000 [סחף_נפעל]	נסחפו	נִסְחֲפוּ	Verb MascFem Pl P3 Past Passive	fSpaceAfter=Yes
+אַבִּירַי 0x2f2000400924000 [אַבִּיר]	אבירי	אַבִּירַי	Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=Yes
+וּ|מְתֵי 0x800924009 [מְתִים]	ומתי	וּמְתֵי	PreLets-1 Pre_Conj Noun Masc Pl Construct	fSpaceAfter=Yes
+שִׁיר 0x36000 [שִׁיר]	שיר	שִׁיר	Propername	fSpaceAfter=Yes
+אַיָּיֽלִי 0x2f2000400524000 [אַיָּל]	איילי	איילי	Noun Masc Sing Abs Suf_Proniminal SufType_Possessive Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> קַוֹּה קִוִּיתִי יְיָ וַיֵּט אֵלַי.
+קַוֹּה 0x44000 [קוה_פיעל]	קוה	קַוֹּה	BareInf	fSpaceAfter=Yes
+קִוִּיתִי 0x12740000 [קוי_פיעל]	קויתי	קִוִּיתִי	Verb MascFem Sing P1 Past	fSpaceAfter=Yes
+יְיָ 0x400524000 [יְיָ]	יי	יְיָ	Noun Masc Sing Abs	fSpaceAfter=Yes
+וַ|יֵּט 0x18540009 [נטה_פעל]	ויט	וַיֵּט	PreLets-1 Pre_Conj Verb Masc Sing P3 Past	fSpaceAfter=Yes
+אֵלַי 0x1200000002e000 [אֶל]	אלי	אֵלַי	Prep Suf_Proniminal SufType_Possessive	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+>> יִשַּׁבְתָּנוּ שֶׁן סֶלַע אֵיתָנִים:
+יִשַּׁבְתָּנוּ 0x36a000014540000 [ישׁב_פיעל]	ישבתנו	יִשַּׁבְתָּנוּ	Verb Masc Sing P2 Past Suf_Proniminal SufType_Accusative Suf_MascFem Suf_Pl Suf_P1	fSpaceAfter=Yes
+שֶׁן 0x800624000 [שֵׁן]	שן	שֶׁן	Noun Fem Sing Construct	fSpaceAfter=Yes
+סֶלַע 0x800524000 [סֶלַע]	סלע	סֶלַע	Noun Masc Sing Construct	fSpaceAfter=Yes
+אֵיתָנִים 0x400924000 [אֵיתָן]	איתנים	אֵיתָנִים	Noun Masc Pl Abs	fSpaceAfter=No
+: 0x38000 [ףףף]	:	:	Punc	fSpaceAfter=Yes
+
+>> כְּאַחַת דִּיכִּיתָנוּ בִּמְקוֹם תַּנִּים,
+כְּ|אַחַת 0xc00626041 [אֶחָד]	כאחת	כְּאַחַת	PreLets-1 Pre_Prep Pre_NotDef Num Fem Sing AbsConstruct	fSpaceAfter=Yes
+דִּיֽכִּיתָנוּ 0x36a000014540000 [דכי_פיעל]	דיכיתנו	דִּיכִּיתָנוּ	Verb Masc Sing P2 Past Suf_Proniminal SufType_Accusative Suf_MascFem Suf_Pl Suf_P1	fSpaceAfter=Yes
+בִּמְקוֹם 0x2e000 [בִּמְקוֹם]	במקום	בִּמְקוֹם	Prep	fSpaceAfter=Yes
+תַּנִּים 0x400924000 [תַּן]	תנים	תַּנִּים	Noun Masc Pl Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> לָרְוָיָה צֵאת כַּמָּה מְתוּנִים.
+לָ|רְוָיָה 0x400624841 [רְוָיָה]	לרויה	לָרְוָיָה	PreLets-1 Pre_Prep Pre_Def Noun Fem Sing Abs	fSpaceAfter=Yes
+צֵאת 0x800044000 [יצא_פעל]	צאת	צֵאת	BareInf	fSpaceAfter=Yes
+כַּמָּה 0xc00012000 [כַּמָּה]	כמה	כַּמָּה	DetQuant AbsConstruct	fSpaceAfter=Yes
+מְתוּנִים 0x400904000 [מָתוּן]	מתונים	מְתוּנִים	Adj Masc Pl Abs	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+## 
+>> בּוֹא בְּמִדַּת חֶסֶד וְלֹא בְכָלָה,
+בּוֹא 0x84540000 [בוא_פעל]	בוא	בּוֹא	Verb Masc Sing P2 Imperative	fSpaceAfter=Yes
+בְּ|מִדַּת 0x800624041 [מִדָּה]	במדת	בְּמִדַּת	PreLets-1 Pre_Prep Pre_NotDef Noun Fem Sing Construct	fSpaceAfter=Yes
+חֶסֶד 0x400524000 [חֶסֶד]	חסד	חֶסֶד	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|לֹא 0x20009 [לֹא]	ולא	וְלֹא	PreLets-1 Pre_Conj Negation	fSpaceAfter=Yes
+בְּ|כָלָה 0x400624041 [כָּלָה]	בכלה	בְכָלָה	PreLets-1 Pre_Prep Pre_NotDef Noun Fem Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> אַשְׁמָתֵנוּ גָדְלָה - עַד תּוֹמֶן וְעֻוכְלָא,
+אַשְׁמָתֵנוּ 0x372000400624000 [אַשְׁמָה]	אשמתנו	אַשְׁמָתֵנוּ	Noun Fem Sing Abs Suf_Proniminal SufType_Possessive Suf_MascFem Suf_Pl Suf_P1	fSpaceAfter=Yes
+גָּדְלָה 0x18640000 [גדל_פעל]	גדלה	גָדְלָה	Verb Fem Sing P3 Past	fSpaceAfter=Yes
+- 0x38000 [ףףף]	-	-	Punc	fSpaceAfter=Yes
+עַד 0x2e000 [עַד]	עד	עַד	Prep	fSpaceAfter=Yes
+תֹּוֽמֶן 0x400524000 [תֹּמֶן]	תומן	תּוֹמֶן	Noun Masc Sing Abs	fSpaceAfter=Yes
+וְ|עוּכְלָא 0x400524009 [עוּכְלָא]	ועוכלא	וְעֻוכְלָא	PreLets-1 Pre_Conj Noun Masc Sing Abs	fSpaceAfter=No
+, 0x38000 [ףףף]	,	,	Punc	fSpaceAfter=Yes
+
+>> אַתָּה יְיָ רַחֲמֶיךָ לֹא תִכְלָא.
+אַתָּה 0x4534000 [אֲנִי]	אתה	אַתָּה	Pronoun Masc Sing P2	fSpaceAfter=Yes
+יְיָ 0x400524000 [יְיָ]	יי	יְיָ	Noun Masc Sing Abs	fSpaceAfter=Yes
+רַחֲמֶיךָ 0x4b2000400924000 [רַחֲמִים]	רחמיך	רַחֲמֶיךָ	Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_Masc Suf_Sing Suf_P2	fSpaceAfter=Yes
+לֹא 0x20000 [לֹא]	לא	לֹא	Negation	fSpaceAfter=Yes
+תִּכְלָא 0x44540000 [כלא_פעל]	תכלא	תִכְלָא	Verb Masc Sing P2 Future	fSpaceAfter=No
+. 0x38000 [ףףף]	.	.	Punc	fSpaceAfter=Yes
+
+## 
+>> רוֹמְמוּהוּ יוֹשְׁבֵי שַׁעַר / רוֹנְנוּהוּ זָקֵן עִם נַעַר
+רוֹמְמוּהוּ 0x8aa000084940000 [רום_פיעל]	רוממוהו	רוֹמְמוּהוּ	Verb Masc Pl P2 Imperative Suf_Proniminal SufType_Accusative Suf_Masc Suf_Sing Suf_P3	fSpaceAfter=Yes
+יוֹשְׁבֵי 0x80e928000 [יוֹשֵׁב]	יושבי	יוֹשְׁבֵי	Ptcp Masc Pl PAny Construct	fSpaceAfter=Yes
+שַׁעַר 0x400524000 [שַׁעַר]	שער	שַׁעַר	Noun Masc Sing Abs	fSpaceAfter=Yes
+/ 0x38000 [ףףף]	/	/	Punc	fSpaceAfter=Yes
+רוֹנְנוּהוּ 0xa000012b40000 []	רוננוהו	רוֹנְנוּהוּ	Verb MascFem Pl P1 Past Suf_Proniminal SufType_Accusative	fSpaceAfter=Yes
+זָקֵן 0x400524000 [זָקֵן]	זקן	זָקֵן	Noun Masc Sing Abs	fSpaceAfter=Yes
+עִם 0x2e000 [עִם]	עם	עִם	Prep	fSpaceAfter=Yes
+נַעַר 0x400524000 [נַעַר]	נער	נַעַר	Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> כְּתַפּוּחַ בַּעֲצֵי הַיַּעַר
+כְּ|תַפּוּחַ 0x400524041 [תַּפּוּחַ]	כתפוח	כְּתַפּוּחַ	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+בַּ|עֲצֵי 0x800924041 [עֵץ]	בעצי	בַּעֲצֵי	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Pl Construct	fSpaceAfter=Yes
+הַ|יַּעַר 0x400524011 [יַעַר]	היער	הַיַּעַר	PreLets-1 Pre_DefArt Noun Masc Sing Abs	fSpaceAfter=Yes
+
+>> שָׁת צָרַיי כְּאַיִן / שְׁמָרַנִי כְּאִישׁוֹן בַּת עַיִן
+שָׁת 0x18540000 [שׁית_פעל]	שת	שָׁת	Verb Masc Sing P3 Past	fSpaceAfter=Yes
+צָרַייֽ 0x2f2000400924000 [צָר]	צריי	צָרַיי	Noun Masc Pl Abs Suf_Proniminal SufType_Possessive Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=Yes
+כְּ|אַיִן 0x400524041 [אַיִן]	כאין	כְּאַיִן	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+/ 0x38000 [ףףף]	/	/	Punc	fSpaceAfter=Yes
+שְׁמָרַנִי 0x2ea000018540000 [שׁמר_פעל]	שמרני	שְׁמָרַנִי	Verb Masc Sing P3 Past Suf_Proniminal SufType_Accusative Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=Yes
+כְּ|אִישׁוֹן 0x400524041 [אִישׁוֹן]	כאישון	כְּאִישׁוֹן	PreLets-1 Pre_Prep Pre_NotDef Noun Masc Sing Abs	fSpaceAfter=Yes
+בַּת 0x800624000 [בַּת]	בת	בַּת	Noun Fem Sing Construct	fSpaceAfter=Yes
+עַיִן 0x400624000 [עַיִן]	עין	עַיִן	Noun Fem Sing Abs	fSpaceAfter=Yes
+
+>> הֱבִיאַנִי אֶל בֵּית הַיָּיִן
+הֱבִיאַנִי 0x2ea000018540000 [בוא_הפעיל]	הביאני	הֱבִיאַנִי	Verb Masc Sing P3 Past Suf_Proniminal SufType_Accusative Suf_MascFem Suf_Sing Suf_P1	fSpaceAfter=Yes
+אֶל 0x2e000 [אֶל]	אל	אֶל	Prep	fSpaceAfter=Yes
+בֵּית 0x800524000 [בַּיִת]	בית	בֵּית	Noun Masc Sing Construct	fSpaceAfter=Yes
+הַ|יָּיִן 0x400524011 [יַיִן]	היין	הַיָּיִן	PreLets-1 Pre_DefArt Noun Masc Sing Abs	fSpaceAfter=Yes
+
+## 
