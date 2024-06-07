@@ -6,7 +6,7 @@ Notes:
 
 - This is a work in progress; the corpora are currently undergoing proofreading and correction. Future updates to this site will include TEI metadata as well.
 
-- Lines which being with two pound signs (##) are header or separator lines and not part of the poems themselves
+- Lines which begin with two pound signs (##) are header or separator lines and not part of the poems themselves
 
 - An asterisk is used to indicate lines that are fragmentary (or completely missing), so that data analysis scripts can choose to skip those lines if relevant.
 
