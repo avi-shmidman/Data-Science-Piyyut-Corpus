@@ -4,6 +4,8 @@ Corpus of vocalized and morphologically-tagged Hebrew poetry from late antiquity
 
 Notes:
 
+- All poems include (human-reviewed) vocalization and (automated) fine-grained morphological tagging.
+
 - This is a work in progress; the corpora are currently undergoing proofreading and correction. Future updates to this site will include TEI metadata as well.
 
 - Lines which begin with two pound signs (##) are header or separator lines and not part of the poems themselves
